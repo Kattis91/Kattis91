@@ -1,6 +1,7 @@
 # Katya Durneva Svedmark
 
 ## Junior Full Stack Software Developer
+[CLICK HERE](#portfolio-projects) to come to my Portfolio Projects.
 
 ### About me
 
@@ -45,6 +46,6 @@ A decade of experience in Customer Service has sharpened my communication skills
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kattis91&theme=buefy&hide_border=false)<br/>
 
-
+#### Portfolio Projects
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
