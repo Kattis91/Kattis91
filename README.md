@@ -46,6 +46,7 @@ A decade of experience in Customer Service has sharpened my communication skills
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kattis91&theme=buefy&hide_border=false)<br/>
 
-#### Portfolio Projects
+### Portfolio Projects
+⬇️ ⬇️ ⬇️
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
