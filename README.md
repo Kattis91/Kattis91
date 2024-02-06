@@ -13,7 +13,7 @@ A decade of experience in Customer Service has sharpened my communication skills
 
 📩 Let's keep in touch!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/katya-svedmark-junior-software-dev/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/katya-svedmark-junior-software-dev/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katya.svedmark@gmail.com)
 
 ### My Tech Stack:
