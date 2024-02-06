@@ -1,23 +1,19 @@
-### Hi there 👋
+# Katya Durneva Svedmark
 
-<!--
-**Kattis91/Kattis91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Full Stack Software Developer
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there👋 Katya here!
 
+I have recently completed the Full Stack Software Development Course offered by Code Institute. Now that I have finished my studies, I am eager to delve deeper into the world of coding, work together with fellow developers, and contribute towards creating significant solutions. I strive to continuously improve my skills both as an individual and as a team player.
 
-## 🌐 Socials:
+A decade of experience in Customer Service has sharpened my communication skills, collaborative abilities, and effective problem-solving techniques. 
+
+📩 Let's keep in touch!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/katya-svedmark-junior-software-dev/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katya.svedmark@gmail.com)
 
 # 💻 My Tech Stack:
 
