@@ -41,6 +41,16 @@ A decade of experience in Customer Service has sharpened my communication skills
 #### 🎨 Design & Wireframes
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?&style=for-the-badge)
 
+#### 🛜 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+#### 🤔 When I stuck I go to:
+![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
+![image](https://res.cloudinary.com/dx0imlozl/image/upload/v1707296610/Screenshot_from_2024-02-07_10-02-30_pbjaxy.png)
+![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 
 #### 📊 GitHub Stats:
 
