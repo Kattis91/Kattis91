@@ -7,9 +7,9 @@
 
 Hi there👋 Katya here!
 
-I have recently completed the Full Stack Software Development Course offered by Code Institute. Now that I have finished my studies, I am eager to delve deeper into the world of coding, work together with fellow developers, and contribute towards creating significant solutions. I strive to continuously improve my skills both as an individual and as a team player.
+About a year ago, I completed the Full Stack Software Development Course offered by Code Institute. Since then, I have shifted my focus to App Development, diving deep into creating mobile applications. I’m passionate about building innovative solutions and continuously improving my skills in this exciting field. I’m eager to collaborate with fellow developers and contribute to impactful projects that make a difference.
 
-A decade of experience in Customer Service has sharpened my communication skills, collaborative abilities, and effective problem-solving techniques. 
+With over a decade of experience in Customer Service, I bring strong communication, teamwork, and problem-solving abilities to my development work.
 
 📩 Let's keep in touch!
 
